@@ -10,7 +10,8 @@ If you have an Android phone:
 5. Log in with credentials from [DormBuddy's webpage](http://www.nabild.com/projects/dormBuddy/overview)
 
 Otherwise:
-1. Very simple. The app is available via [Appetize]
-(https://appetize.io/app/8dp9db88pakj9czdfq73gj0epw). Launch it and log in with
-the credentials provided in [the application's main page]
-(http://www.nabild.com/projects/dormBuddy/overview)
+1. Very simple. The app is available via
+[Appetize](https://appetize.io/app/8dp9db88pakj9czdfq73gj0epw).
+Launch it and log in with
+the credentials provided in
+[the application's main page](http://www.nabild.com/projects/dormBuddy/overview)
